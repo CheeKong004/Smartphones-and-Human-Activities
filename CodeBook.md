@@ -6,7 +6,7 @@ To find out the mean of the mean and standard deviation of the  sensor signals (
 
 
 ## Dimensions
-181 rows, 50 columns
+180 rows, 50 columns
 
 
 ## Activity and subject variables
@@ -77,4 +77,3 @@ FreqBodyGyroscopeMeanZ		          Frequency Body Gyroscope Mean Z
 FreqBodyGyroscopeSDX			          Frequency Body Gyroscope mean of standard deviation X
 FreqBodyGyroscopeSDY		          	Frequency Body Gyroscope mean of standard deviation Y
 FreqBodyGyroscopeSDZ		          	Frequency Body Gyroscope mean of standard deviation Z
- contents here
