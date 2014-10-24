@@ -4,7 +4,7 @@ Smartphones-and-Human-Activities
 Getting and Cleaning Data Course Project
 
 
-Experiments were carried out with a group of 30 volunteers (appear as 1-30 under Subject variable) within an age bracket of 19-48 years. Each person performed six activities: Walking, Walking Upstaris, Walking Downstairs, Sitting, Standing, Laying. The corresponding numbers for these 6 activities are 1, 2, 3 4 5 and 6 in the y_test.txt and y_train.txt files.
+Experiments were carried out with a group of 30 volunteers (appear as 1-30 under Subject variable) within an age bracket of 19-48 years. Each person performed six activities: Walking, Walking Upstaris, Walking Downstairs, Sitting, Standing, Laying. The corresponding numbers for these 6 activities are 1, 2, 3, 4, 5 and 6 in the y_test.txt and y_train.txt files.
 
 
 The volunteers wore a smartphone (Samsung Galaxy S II) on the waist. The obtained dataset was randomly partitioned into two sets, where 70% of the volunteers were selected for generating the training data and 30% the test data. 
